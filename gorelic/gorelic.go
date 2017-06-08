@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/labstack/echo"
+	"github.com/ganillagrace/echo"
 	metrics "github.com/yvasiyarov/go-metrics"
 	"github.com/yvasiyarov/gorelic"
 )

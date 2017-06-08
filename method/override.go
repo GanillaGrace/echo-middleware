@@ -6,7 +6,7 @@ package method
 import (
 	"errors"
 
-	"github.com/labstack/echo"
+	"github.com/ganillagrace/echo"
 )
 
 // HeaderHTTPMethodOVerride is a common HTTP header used to override the HTTP
